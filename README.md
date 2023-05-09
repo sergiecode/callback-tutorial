@@ -1,8 +1,8 @@
-![enter image description here](https://raw.githubusercontent.com/sergiecode/callback-tutorial/master/1.jpg)
+![Tutorial sobre Callbacks en Javascript imagen 1](https://raw.githubusercontent.com/sergiecode/callback-tutorial/master/1.jpg)
 
-![enter image description here](https://raw.githubusercontent.com/sergiecode/callback-tutorial/master/2.jpg)
+![Tutorial sobre Callbacks en Javascript imagen 2](https://raw.githubusercontent.com/sergiecode/callback-tutorial/master/2.jpg)
 
-![enter image description here](https://raw.githubusercontent.com/sergiecode/callback-tutorial/master/3.jpg)
+![Tutorial sobre Callbacks en Javascript imagen 3](https://raw.githubusercontent.com/sergiecode/callback-tutorial/master/3.jpg)
 
 # Callbacks en JavaScript
 
